@@ -1,8 +1,8 @@
 # Frequency Perception Network for Camouflaged Object Detection
 
-## The source code can be found from [Baidu Drive](https://pan.baidu.com/s/1g-2U2mO2nbrhuSI90uWQkQ?pwd=MVPL)，CODE: MVPL 
-
 > **Authors:** [Runmin Cong](https://openreview.net/profile?id=\~Runmin_Cong1), [Mengyao Sun](https://openreview.net/profile?id=\~Mengyao_Sun1), [Sanyi Zhang](https://openreview.net/profile?id=\~Sanyi_Zhang1), [Xiaofei Zhou](https://openreview.net/profile?id=\~Xiaofei_Zhou2), [Wei Zhang](https://openreview.net/profile?id=\~Wei_Zhang7), and [Yao Zhao](https://openreview.net/profile?id=\~Yao_Zhao1).
+
+## The source code can be found from [Baidu Drive](https://pan.baidu.com/s/1g-2U2mO2nbrhuSI90uWQkQ?pwd=MVPL)，CODE: MVPL 
 
 ## 1. Preface
 
@@ -13,8 +13,6 @@
 ### 2.1. Training/Testing
 
 The training and testing experiments are conducted using [PyTorch](https://github.com/pytorch/pytorch) with one NVIDIA 2080Ti GPU of 32 GB Memory.
-
-
 
 1.  Configuring your environment (Prerequisites):
 
